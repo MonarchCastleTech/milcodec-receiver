@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/logo.png" alt="Milcodec Receiver logo" width="140"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monarchcastletech/milcodec-receiver/main/docs/logo-dark.png"><img src="docs/logo.png" alt="Milcodec Receiver logo" width="140"></picture>
   <!-- CODEX: generate a clean product logo — a stylized hexagonal "⬡" signal/receiver glyph with a chirp waveform sweeping across it, in cyan (#00d4ff) and signal-green (#00ff88) on a near-black (#0d0d14) field. Defense-grade, minimal, monogram-friendly. -->
 
   # Milcodec Receiver
