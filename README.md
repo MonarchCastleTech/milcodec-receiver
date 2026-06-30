@@ -24,8 +24,8 @@
 
 ## 🖼️ Preview
 <!-- CODEX: capture real screenshots from the live build at https://monarchcastletech.github.io/milcodec-receiver/ and drop them into docs/ -->
-![Milcodec Receiver — covert FM-tuner cover interface](docs/screenshot-1.png)
-![Milcodec Receiver — unlocked receiver console with spectrum visualizer and decoded inbox](docs/screenshot-2.png)
+<!-- ![Milcodec Receiver — covert FM-tuner cover interface](docs/screenshot-1.png) (screenshot pending) -->
+<!-- ![Milcodec Receiver — unlocked receiver console with spectrum visualizer and decoded inbox](docs/screenshot-2.png) (screenshot pending) -->
 
 ## 🧭 What it does
 Milcodec Receiver is the receive half of an acoustic covert channel. A companion sender plays an encoded waveform through a speaker; this application listens through the microphone, recovers the bitstream, decrypts it, and displays the message.
